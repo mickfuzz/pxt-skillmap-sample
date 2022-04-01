@@ -10,7 +10,7 @@
 
 ### space-activity2
 
-* name: Learn to use the 3M game making map
+* name: 2 Learn to use the 3M game making map
 * type: tutorial
 * description: Intro to charting your progress
 * tags: easy
@@ -27,7 +27,7 @@
 
 ### space-activity3
 
-* name: Learn to use the 3M game making map
+* name: 3 Learn to use the 3M game making map
 * type: tutorial
 * description: Intro to charting your progress
 * tags: easy
@@ -44,7 +44,7 @@
 
 ### space-activity4
 
-* name: Learn to use the 3M game making map
+* name: 4 Learn to use the 3M game making map
 * type: tutorial
 * description: Intro to charting your progress
 * tags: easy
