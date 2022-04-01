@@ -1,15 +1,15 @@
-# sample
-* name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+# MakeCode Platformer
+* name: MakeCode Platformer Guide
+* description: Make a platformer game by adding these game design patterns to your starting template.
 
-## interface
-* name: Learn to use MakeCode Arcade
+## challenge Space
+* name: Learn to use Space
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### interface-activity1
+### space-activity1
 
-* name: Learn to use MakeCode Arcade
+* name: Learn to use MakeCode Space
 * type: tutorial
 * description: Intro to our tutorial cards
 * tags: easy
