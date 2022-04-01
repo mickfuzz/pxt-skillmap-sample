@@ -17,9 +17,6 @@
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
 
-# MakeCode Platformer
-* name: MakeCode Platformer Guide
-* description: Make a platformer game by adding these game design patterns to your starting template.
 
 ## challenge Space
 * name: Learn to use Space
@@ -36,9 +33,7 @@
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
 
-# MakeCode Platformer
-* name: MakeCode Platformer Guide
-* description: Make a platformer game by adding these game design patterns to your starting template.
+
 
 ## challenge Space
 * name: Learn to use Space
@@ -55,9 +50,7 @@
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
 
-# MakeCode Platformer
-* name: MakeCode Platformer Guide
-* description: Make a platformer game by adding these game design patterns to your starting template.
+
 
 ## challenge Space
 * name: Learn to use Space
