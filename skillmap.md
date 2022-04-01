@@ -14,8 +14,8 @@
 * description: Intro to charting your progress
 * tags: easy
 
-* url: https://github.com/mickfuzz/pxt-skillmap-sample/tutorials/interface/activity1
-* imageUrl: https://raw.githubusercontent.com/mickfuzz/pxt-skillmap-sample/main/img/interface/activity1.png
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
 
 ## space
 * name: Design a Space Explorer
