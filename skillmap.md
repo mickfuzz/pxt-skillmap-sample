@@ -9,13 +9,13 @@
 
 ### space-activity1
 
-* name: Learn to use MakeCode Space
+* name: Learn to use the 3M game making map
 * type: tutorial
-* description: Intro to our tutorial cards
+* description: Intro to charting your progress
 * tags: easy
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+* url: https://github.com/mickfuzz/pxt-skillmap-sample/tutorials/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/pxt-skillmap-sample/main/img/interface/activity1.png
 
 ## space
 * name: Design a Space Explorer
