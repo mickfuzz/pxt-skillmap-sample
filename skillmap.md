@@ -1,7 +1,13 @@
 # MakeCode Platformer
 * name: MakeCode Platformer Guide
 * description: Make a platformer game by adding these game design patterns to your starting template.
-
+* bannerUrl: /static/skillmap/platformer/activity4.png
+* backgroundurl: /static/skillmap/space/game-maker-guide-background.png
+* primarycolor: #2EA9B0
+* secondarycolor: #F392BD
+* tertiarycolor: #83C252
+* highlightcolor: #FAED28
+* alternatesources: github:https://github.com/microsoft/pxt-skillmap-sample/skillmap.md
 
 ## challenge Space
 * name: Learn to use Space
