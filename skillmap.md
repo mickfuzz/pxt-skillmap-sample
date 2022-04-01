@@ -7,6 +7,34 @@
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
+
+# MakeCode Platformer
+* name: MakeCode Platformer Guide
+* description: Make a platformer game by adding these game design patterns to your starting template.
+
+## challenge Space
+* name: Learn to use Space
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+
+# MakeCode Platformer
+* name: MakeCode Platformer Guide
+* description: Make a platformer game by adding these game design patterns to your starting template.
+
+## challenge Space
+* name: Learn to use Space
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+
+# MakeCode Platformer
+* name: MakeCode Platformer Guide
+* description: Make a platformer game by adding these game design patterns to your starting template.
+
+## challenge Space
+* name: Learn to use Space
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+
 ### space-activity1
 
 * name: Learn to use the 3M game making map
