@@ -36,7 +36,6 @@
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
 
 
-
 ## challenge Space4
 * name: Learn to use Space
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
