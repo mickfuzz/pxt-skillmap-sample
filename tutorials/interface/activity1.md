@@ -19,7 +19,7 @@ This box is where you'll find information for each step.
 If you don't find all of the info you need,
 click the lightbulb to the right for an extra hint.
 
-#### ~ tutorialhint
+<!-- #### ~ tutorialhint
 ```
 **You found the hints!**
 ```
@@ -38,4 +38,4 @@ connected, duplicated, and deleted.
 
 🎈 Congratulations 🎈
 
-You're ready to start adding patterns to your code. Select a batch of patterns to work on first and get cracking.
+You're ready to start adding patterns to your code. Select a batch of patterns to work on first and get cracking. -->
