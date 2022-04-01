@@ -18,12 +18,12 @@
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
 
 
-## challenge Space
+## challenge Space2
 * name: Learn to use Space
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### space-activity1
+### space-activity2
 
 * name: Learn to use the 3M game making map
 * type: tutorial
@@ -35,12 +35,12 @@
 
 
 
-## challenge Space
+## challenge Space3
 * name: Learn to use Space
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### space-activity1
+### space-activity3
 
 * name: Learn to use the 3M game making map
 * type: tutorial
@@ -52,12 +52,12 @@
 
 
 
-## challenge Space
+## challenge Space4
 * name: Learn to use Space
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### space-activity1
+### space-activity4
 
 * name: Learn to use the 3M game making map
 * type: tutorial
