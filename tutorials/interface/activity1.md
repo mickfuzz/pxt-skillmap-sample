@@ -4,8 +4,6 @@
 
 ## Introduction @unplugged
 
-![Psyched Monkey](/static/skillmap/interface/monkey.png "Psyched Monkey is Ready!" )
-
 **Are you ready to start coding your own platformer game**
 
 This map will allow you to keep a track of your progress in making games. The idea of using the map to to help with:
@@ -14,14 +12,12 @@ This map will allow you to keep a track of your progress in making games. The id
 - keeping a track of your progress.
 
 
-
 ## step 2
 
 This box is where you'll find information for each step.
 
 If you don't find all of the info you need,
 click the lightbulb to the right for an extra hint.
-
 
 #### ~ tutorialhint
 ```
