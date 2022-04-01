@@ -83,6 +83,51 @@
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
 
+## challenge Space5
+* name: Learn to use Space
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+
+### space-activity5
+
+* name: 4 Learn to use the 3M game making map
+* type: tutorial
+* description: Intro to charting your progress
+* tags: easy
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
+
+## challenge Space6
+* name: Learn to use Space
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+
+### space-activity6
+
+* name: 4 Learn to use the 3M game making map
+* type: tutorial
+* description: Intro to charting your progress
+* tags: easy
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
+
+## challenge Space7
+* name: Learn to use Space
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+
+### space-activity7
+
+* name: 4 Learn to use the 3M game making map
+* type: tutorial
+* description: Intro to charting your progress
+* tags: easy
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
+
 
 ## space
 * name: Design a Space Explorer
