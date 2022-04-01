@@ -1,21 +1,72 @@
-# sample
-* name: Game Maker Guide
-* description: Level up your game making skills by completing the tutorials in this guide.
+# MakeCode Platformer
+* name: MakeCode Platformer Guide
+* description: Make a platformer game by adding these game design patterns to your starting template.
 
-## interface
-* name: Learn to use MakeCode Arcade
+## challenge Space
+* name: Learn to use Space
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### interface-activity1
+### space-activity1
 
-* name: Learn to use MakeCode Arcade
+* name: Learn to use the 3M game making map
 * type: tutorial
-* description: Intro to our tutorial cards
+* description: Intro to charting your progress
 * tags: easy
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
+
+<!-- 
+## challenge Space2
+* name: Learn to use Space
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+
+### space-activity2
+
+* name: Learn to use the 3M game making map
+* type: tutorial
+* description: Intro to charting your progress
+* tags: easy
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
+
+
+
+## challenge Space3
+* name: Learn to use Space
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+
+### space-activity3
+
+* name: Learn to use the 3M game making map
+* type: tutorial
+* description: Intro to charting your progress
+* tags: easy
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
+
+
+
+## challenge Space4
+* name: Learn to use Space
+* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+
+### space-activity4
+
+* name: Learn to use the 3M game making map
+* type: tutorial
+* description: Intro to charting your progress
+* tags: easy
+
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
+ -->
 
 ## space
 * name: Design a Space Explorer
@@ -29,8 +80,7 @@
 * description: Draw and code a spaceship!
 * tags: easy
 * next: space-activity2
-
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/space/activity1
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/space/activity1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/space/activity1.png
 
 ### space-activity2
