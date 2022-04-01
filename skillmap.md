@@ -1,8 +1,8 @@
 # MakeCode Platformer
 * name: MakeCode Platformer Guide
 * description: Make a platformer game by adding these game design patterns to your starting template.
-* bannerUrl: /static/skillmap/platformer/activity4.png
-* backgroundurl: /static/skillmap/space/game-maker-guide-background.png
+<!-- * bannerUrl: /static/skillmap/platformer/activity4.png
+* backgroundurl: /static/skillmap/space/game-maker-guide-background.png -->
 * primarycolor: #2EA9B0
 * secondarycolor: #F392BD
 * tertiarycolor: #83C252
@@ -253,7 +253,7 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity1
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity1.png
 * tags: easy
-* next: platformer-activity2
+* next: 2platformer-activity2
 
 ### 2platformer-activity2
 
@@ -263,7 +263,7 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity2
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity2.png
 * tags: easy, tiles
-* next: platformer-activity3
+* next: 2platformer-activity3
 
 ### 2platformer-activity3
 
@@ -273,7 +273,7 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity3
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity3.png
 * tags: intermediate, overlaps
-* next: platformer-activity4
+* next: 2platformer-activity4
 
 ### 2platformer-activity4
 
@@ -283,7 +283,7 @@
 * url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/platformer/activity4
 * imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/platformer/activity4.png
 * tags: intermediate, functions
-* next: platformer-activity5
+* next: 2platformer-activity5
 
 ### 2platformer-activity5
 
