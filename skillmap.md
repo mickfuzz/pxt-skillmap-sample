@@ -234,12 +234,12 @@
 * tags: intermediate, AI, physics
 
 
-## platformer
+## platformer2
 * name: Learn to Make a Platformer
 * description: A skillmap that takes you through how to build a platformer with multiple levels.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/learn-to-make-a-platformer.pdf
 
-### platformer-activity1
+### 2platformer-activity1
 
 * name: Simple Platformer
 * type: tutorial
@@ -249,7 +249,7 @@
 * tags: easy
 * next: platformer-activity2
 
-### platformer-activity2
+### 2platformer-activity2
 
 * name: Camera and Tiles
 * type: tutorial
@@ -259,7 +259,7 @@
 * tags: easy, tiles
 * next: platformer-activity3
 
-### platformer-activity3
+### 2platformer-activity3
 
 * name: Simple Enemies
 * type: tutorial
@@ -269,7 +269,7 @@
 * tags: intermediate, overlaps
 * next: platformer-activity4
 
-### platformer-activity4
+### 2platformer-activity4
 
 * name: Multiple Levels
 * type: tutorial
@@ -279,7 +279,7 @@
 * tags: intermediate, functions
 * next: platformer-activity5
 
-### platformer-activity5
+### 2platformer-activity5
 
 * name: Enemy AI
 * type: tutorial
