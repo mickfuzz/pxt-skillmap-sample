@@ -1,108 +1,41 @@
-# Getting Started with 3M Game Making
+# Add a Static Enemy
 
 ### @explicitHints true
 
 ## Introduction @unplugged
 
-**Are you ready to start coding your own platformer game**
+**Add a Static Enemy**
 
-This map will allow you to keep a track of your progress in making games. The idea of using the map to to help with:
-- choosing what patterns to add your game
-- finding the help you need to add those patterns
-- keeping a track of your progress.
+Also known as a Hazard, a Static Enemy will kill or damage the health of the player if they touch it. These are often placed in tricky spots which the player is likely to bump into when jumping or trying to collect rewards.
 
-[Click here for help on adding player lives](https://mickfuzz.github.io/makecode-platformer-101/addLives)
+[![Step by step guide](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg)](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
 
-
-[![Foo 5 this one works](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/patterns/gamemechanic_extralives_800.png)](https://mickfuzz.github.io/makecode-platformer-101/addLives)
+[Click here for a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
 
 ## step 2
 
-This box is where you'll find information for each step.
+The essential idea is to duplicate the same pattern as the way that food is added things to the world. You'll change blocks
 
-If you don't find all of the info you need,
-click the lightbulb to the right for an extra hint.
+[![Step by step guide](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg)](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
 
-<a href="https://mickfuzz.github.io/makecode-platformer-101/addLives" target="_blank">Click here for help on adding player lives - I dont' work as a link </a>
+<img src="https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy2.png" width=250>
 
+[Click here for a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
 
-[Click here for help on adding player lives](https://mickfuzz.github.io/makecode-platformer-101/addLives)
-
-
-<a href="https://mickfuzz.github.io/makecode-platformer-101/addLives" target="_blank"><img src="https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/patterns/gamemechanic_extralives_800.png" width=200></a>
-
-
-[![Foo this works as link ](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png)](https://mickfuzz.github.io/makecode-platformer-101/addLives)
-
-```blocks
-let mySprite = sprites.create(img`
-    . . . . . . . . . . . . . . . .
-    . . . . . . . . . . . . . . . .
-    . . . . . . . . . b 5 5 b . . .
-    . . . . . . b b b b b b . . . .
-    . . . . . b b 5 5 5 5 5 b . . .
-    . b b b b b 5 5 5 5 5 5 5 b . .
-    . b d 5 b 5 5 5 5 5 5 5 5 b . .
-    . . b 5 5 b 5 d 1 f 5 d 4 f . .
-    . . b d 5 5 b 1 f f 5 4 4 c . .
-    b b d b 5 5 5 d f b 4 4 4 4 b .
-    b d d c d 5 5 b 5 4 4 4 4 4 4 b
-    c d d d c c b 5 5 5 5 5 5 5 b .
-    c b d d d d d 5 5 5 5 5 5 5 b .
-    . c d d d d d d 5 5 5 5 5 d b .
-    . . c b d d d d d 5 5 5 b b . .
-    . . . c c c c c c c c b b . . .
-`, SpriteKind.Player)
-```
 
 #### ~ tutorialhint
 
-[![Foo this works as link ](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png)](https://mickfuzz.github.io/makecode-platformer-101/addLives)
+The essential idea is to duplicate the same pattern as the way that food is added things to the world. You'll change blocks
 
 
-![Block Animation](/static/skillmap/interface/use_blocks.gif "Blocks appear, duplicate, and delete." )
+<img src="https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy2.png" width=500>
 
-![Block Animation](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png "Blocks appear, duplicate, and delete." )
-
-![Block Animation](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/gifs/use_blocks.gif "Blocks appear, duplicate, and delete." )
-
-```blocks
-let mySprite = sprites.create(img`
-    . . . . . . . . . . . . . . . .
-    . . . . . . . . . . . . . . . .
-    . . . . . . . . . b 5 5 b . . .
-    . . . . . . b b b b b b . . . .
-    . . . . . b b 5 5 5 5 5 b . . .
-    . b b b b b 5 5 5 5 5 5 5 b . .
-    . b d 5 b 5 5 5 5 5 5 5 5 b . .
-    . . b 5 5 b 5 d 1 f 5 d 4 f . .
-    . . b d 5 5 b 1 f f 5 4 4 c . .
-    b b d b 5 5 5 d f b 4 4 4 4 b .
-    b d d c d 5 5 b 5 4 4 4 4 4 4 b
-    c d d d c c b 5 5 5 5 5 5 5 b .
-    c b d d d d d 5 5 5 5 5 5 5 b .
-    . c d d d d d d 5 5 5 5 5 d b .
-    . . c b d d d d d 5 5 5 b b . .
-    . . . c c c c c c c c b b . . .
-`, SpriteKind.Player)
-```
+[Click here for a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
 
 
+## Next Stages @unplugged
 
-
-## Meet the Blocks  @unplugged
-
-Blocks can be dragged out from the  [__*toolbox*__](#tools "The strip to the left of your workspace that lists block categories."),
-
-connected, duplicated, and deleted.
-
-test
-
-![Block Animation](/static/skillmap/interface/use_blocks.gif "Blocks appear, duplicate, and delete." )
-
-
-## Next Stages
 
 🎈 Congratulations 🎈
 
-You're ready to start adding patterns to your code. Select a batch of patterns to work on first and get cracking.
+If you have successfully added this pattern to your game then click done and you can move on to your next challenge
