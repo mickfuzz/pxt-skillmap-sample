@@ -45,6 +45,8 @@ click the lightbulb to the right for an extra hint.
 
 ![Block Animation](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png "Blocks appear, duplicate, and delete." )
 
+![Block Animation](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/gifs/use_blocks.gif "Blocks appear, duplicate, and delete." )
+
 ```
 
 
