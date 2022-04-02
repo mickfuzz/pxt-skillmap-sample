@@ -20,7 +20,7 @@ This map will allow you to keep a track of your progress in making games. The id
 <a href="https://mickfuzz.github.io/makecode-platformer-101/addLives"  target="_blank" rel="some text">![Foo](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/patterns/gamemechanic_extralives_800.png)</a>
 
 
-[![Foo](https://mickfuzz.github.io/makecode-platformer-101/addLives)](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/patterns/gamemechanic_extralives_800.png)
+[![Foo 5](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/patterns/gamemechanic_extralives_800.png)](https://mickfuzz.github.io/makecode-platformer-101/addLives)
 
 ## step 2
 
@@ -36,12 +36,20 @@ click the lightbulb to the right for an extra hint.
 <a href="https://mickfuzz.github.io/makecode-platformer-101/addLives" target="_blank"><img src="https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png"></a>
 
 
-[![Foo](https://mickfuzz.github.io/makecode-platformer-101/addLives)](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png)
+[![Foo](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png)](https://mickfuzz.github.io/makecode-platformer-101/addLives)
 
 #### ~ tutorialhint
 ```
 **You found the hints!**
 <a href="https://mickfuzz.github.io/makecode-platformer-101/addLives" target="_blank"><img src="https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/patterns/gamemechanic_extralives_800.png"></a>
+
+[![Foo](https://mickfuzz.github.io/makecode-platformer-101/addLives)](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png)
+
+
+![Block Animation](/static/skillmap/interface/use_blocks.gif "Blocks appear, duplicate, and delete." )
+
+![Block Animation](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png "Blocks appear, duplicate, and delete." )
+
 ```
 
 
