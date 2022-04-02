@@ -34,7 +34,7 @@
 * tags: easy
 * next: jumping-on-enemies
 
-* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity2
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity2
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_animatedenemies.jpg
 
 ### jumping-on-enemies
