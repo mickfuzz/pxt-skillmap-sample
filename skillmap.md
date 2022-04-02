@@ -2,27 +2,27 @@
 * name: MakeCode Platformer Guide
 * description: Make a platformer game by adding these game design patterns to your starting template.
 <!-- * bannerUrl: /static/skillmap/platformer/activity4.png-->
-* backgroundurl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/bg/game-maker-guide-background.png 
+* backgroundurl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/bg/game-maker-guide-background.png
 * primarycolor: #2EA9B0
 * secondarycolor: #F392BD
 * tertiarycolor: #83C252
 * highlightcolor: #FAED28
 * alternatesources: github:https://github.com/microsoft/pxt-skillmap-sample/skillmap.md
 
-## challenge Space
-* name: Learn to use Space
-* description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
+## Add Enemies
+* name: Learn to add Enemies to your Game
+* description: This will teach you how to add enemies to your game
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### space-activity
+### static-enemies
 
-* name: 1 Learn to use the 3M game making map
+* name: Learn to add a simple static enemy or hazard to your game
 * type: tutorial
 * description: Intro to charting your progress
 * tags: easy
 
-* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
-* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/interface/activity1.png
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg
 
 
 ## challenge Space2
