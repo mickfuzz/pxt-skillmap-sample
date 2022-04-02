@@ -13,7 +13,10 @@ This map will allow you to keep a track of your progress in making games. The id
 
 [Click here for help on adding player lives](https://mickfuzz.github.io/makecode-platformer-101/addLives)
 
-![Add Playerlives](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/patterns/gamemechanic_extralives_800.png)
+<a href="https://mickfuzz.github.io/makecode-platformer-101/addLives" target="_blank">Click here for help on adding player lives</a>
+
+<a href="https://mickfuzz.github.io/makecode-platformer-101/addLives" target="_blank"><img src="https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/patterns/gamemechanic_extralives_800.png"></a>
+
 
 
 ## step 2
@@ -23,9 +26,17 @@ This box is where you'll find information for each step.
 If you don't find all of the info you need,
 click the lightbulb to the right for an extra hint.
 
+<a href="https://mickfuzz.github.io/makecode-platformer-101/addLives" target="_blank">Click here for help on adding player lives</a>
+
+<a href="https://mickfuzz.github.io/makecode-platformer-101/addLives" target="_blank"><img src="https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/patterns/gamemechanic_extralives_800.png"></a>
+
+<a href="https://mickfuzz.github.io/makecode-platformer-101/addLives" target="_blank"><img src="https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png"></a>
+
+
 #### ~ tutorialhint
 ```
 **You found the hints!**
+<a href="https://mickfuzz.github.io/makecode-platformer-101/addLives" target="_blank"><img src="https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/patterns/gamemechanic_extralives_800.png"></a>
 ```
 
 
