@@ -22,8 +22,8 @@
 * tags: easy
 * next: animated-enemies
 
-* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity1
-* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tree/main/tutorials/enemies/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/images/patterns/gameMechanics_staticenemies.jpg
 
 
 ### animated-enemies

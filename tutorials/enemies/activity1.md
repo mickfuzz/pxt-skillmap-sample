@@ -38,4 +38,4 @@ The essential idea is to duplicate the same pattern as the way that food is adde
 
 🎈 Congratulations 🎈
 
-If you have successfully added this pattern to your game then click done and you can move on to your next challenge.c
+If you have successfully added this pattern to your game then click done and you can move on to your next challenge.
