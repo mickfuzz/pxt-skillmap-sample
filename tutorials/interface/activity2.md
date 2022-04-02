@@ -24,7 +24,7 @@ Need for Pattern: Having a moving enemy is a way to increase the challenge of th
 
 when you have completed adding this Game Pattern then click on **Next**.
 
-## Congratulations - What Next @unplugged
+## Congratulations - What Next 
 
 🎈 Congratulations 🎈
 

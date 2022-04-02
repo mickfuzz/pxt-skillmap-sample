@@ -44,7 +44,7 @@
 * description: In many games players shoot enemies. In some platformers they get rid of them by jumping on them instead. If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears..
 * tags: medium
 
-* url: https://github.com/mickfuzz/skillmap-mc-platformer/tree/main/tutorials/enemies/activity1
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_jumping.jpg
 
 

@@ -20,7 +20,7 @@ In the guide you will learn to create a hazard when ever there is a red square o
 
 [Click here to follow a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy) when you have completed adding this Game Pattern then click on **Next**.
 
-## Congratulations - What Next @unplugged
+## Congratulations - What Next 
 
 🎈 Congratulations 🎈
 
