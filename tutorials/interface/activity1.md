@@ -34,7 +34,7 @@ click the lightbulb to the right for an extra hint.
 
 [![Foo this works as link ](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png)](https://mickfuzz.github.io/makecode-platformer-101/addLives)
 
-```
+```blocks
 let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . .
     . . . . . . . . . . . . . . . .
@@ -57,6 +57,7 @@ let mySprite = sprites.create(img`
 
 #### ~ tutorialhint
 ```
+```blocks
 **You found the hints!**
 
 let mySprite = sprites.create(img`
@@ -77,7 +78,8 @@ let mySprite = sprites.create(img`
     . . c b d d d d d 5 5 5 b b . .
     . . . c c c c c c c c b b . . .
 `, SpriteKind.Player)
-
+```
+```
 [![Foo this works as link ](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png)](https://mickfuzz.github.io/makecode-platformer-101/addLives)
 
 
