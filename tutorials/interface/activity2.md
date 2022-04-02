@@ -2,40 +2,26 @@
 
 ### @explicitHints true
 
-## Introduction @unplugged
+## Add a Static Enemy @unplugged
 
-**Add a Static Enemy**
+[Click here for a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy) - Also known as a Hazard, a Static Enemy will kill or damage the health of the player if they touch it. These are often placed in tricky spots which the player is likely to bump into when jumping or trying to collect rewards.
 
-Also known as a Hazard, a Static Enemy will kill or damage the health of the player if they touch it. These are often placed in tricky spots which the player is likely to bump into when jumping or trying to collect rewards.
+<img src="https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg" width=350>
 
-[![Step by step guide](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg)](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
+[To continue follow step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
 
-[Click here for a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
-
-## step 2
-
-The essential idea is to duplicate the same pattern as the way that food is added things to the world. You'll change blocks
-
-[![Step by step guide](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg)](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
+## Add a Static Enemy - In a nutshell
 
 <img src="https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy2.png" width=250>
 
-[Click here for a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
+In the guide you will learn to create a hazard when ever there is a red square on your level tilemap. It's a similar pattern to adding food.   
 
+[![Step by step guide](https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg)](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
 
-#### ~ tutorialhint
+[Click here to follow a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy) when you have completed adding this Game Pattern then click on **Next**.
 
-The essential idea is to duplicate the same pattern as the way that food is added things to the world. You'll change blocks
-
-
-<img src="https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/addStaticEnemy2.png" width=500>
-
-[Click here for a step-by-step guide](https://mickfuzz.github.io/makecode-platformer-101/addStaticEnemy)
-
-
-## Next Stages @unplugged
-
+## Congratulations - What Next @unplugged
 
 🎈 Congratulations 🎈
 
-If you have successfully added this pattern to your game then click done and you can move on to your next challenge
+If you have successfully added this pattern to your game then click **Done** and you can move on to add another Game Patter of your choice.
