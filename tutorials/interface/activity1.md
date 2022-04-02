@@ -56,10 +56,17 @@ let mySprite = sprites.create(img`
 ```
 
 #### ~ tutorialhint
-```
-```blocks
-**You found the hints!**
 
+[![Foo this works as link ](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png)](https://mickfuzz.github.io/makecode-platformer-101/addLives)
+
+
+![Block Animation](/static/skillmap/interface/use_blocks.gif "Blocks appear, duplicate, and delete." )
+
+![Block Animation](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png "Blocks appear, duplicate, and delete." )
+
+![Block Animation](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/gifs/use_blocks.gif "Blocks appear, duplicate, and delete." )
+
+```blocks
 let mySprite = sprites.create(img`
     . . . . . . . . . . . . . . . .
     . . . . . . . . . . . . . . . .
@@ -79,17 +86,8 @@ let mySprite = sprites.create(img`
     . . . c c c c c c c c b b . . .
 `, SpriteKind.Player)
 ```
-```
-[![Foo this works as link ](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png)](https://mickfuzz.github.io/makecode-platformer-101/addLives)
 
 
-![Block Animation](/static/skillmap/interface/use_blocks.gif "Blocks appear, duplicate, and delete." )
-
-![Block Animation](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/blocks/game.png "Blocks appear, duplicate, and delete." )
-
-![Block Animation](https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/img/gifs/use_blocks.gif "Blocks appear, duplicate, and delete." )
-
-```
 
 
 ## Meet the Blocks  @unplugged
@@ -97,6 +95,8 @@ let mySprite = sprites.create(img`
 Blocks can be dragged out from the  [__*toolbox*__](#tools "The strip to the left of your workspace that lists block categories."),
 
 connected, duplicated, and deleted.
+
+test
 
 ![Block Animation](/static/skillmap/interface/use_blocks.gif "Blocks appear, duplicate, and delete." )
 
