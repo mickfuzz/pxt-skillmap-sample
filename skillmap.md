@@ -20,8 +20,9 @@
 * type: tutorial
 * description: Learn to add a simple static enemy or hazard to your game
 * tags: easy
+* next: animated-enemies
 
-* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity1
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tree/main/tutorials/enemies/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg
 
 
