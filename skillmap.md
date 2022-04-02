@@ -16,28 +16,24 @@
 
 ### static-enemies
 
-* name: Learn to add a simple static enemy or hazard to your game
+* name: Add static enemy
 * type: tutorial
-* description: Intro to charting your progress
+* description: Learn to add a simple static enemy or hazard to your game
 * tags: easy
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg
 
-## Add Enemies 2
-* name: Learn to add Enemies to your Game
-* description: This will teach you how to add enemies to your game
-* completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### static-enemies-2
+### animated-enemies
 
-* name: Learn to add a simple static enemy or hazard to your game
+* name: Animate a Static Enemy
 * type: tutorial
-* description: Intro to charting your progress
+* description: In this pattern a static enemy is animated to make some limited movements around its home position, for example bobbing or bouncing.
 * tags: easy
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tree/main/tutorials/enemies/activity1
-* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_staticenemies.jpg
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_animatedenemies.jpg
 
 ## challenge Space2
 * name: Learn to use Space
