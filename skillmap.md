@@ -35,7 +35,6 @@
 * type: tutorial
 * description: In this pattern a static enemy is animated to make some limited movements around its home position, for example bobbing or bouncing.
 * tags: easy
-* next: jumping-on-enemies
 * position: 1 0
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity2
