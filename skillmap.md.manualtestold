@@ -8,12 +8,12 @@
 * tertiarycolor: #83C252
 * highlightcolor: #FAED28
 * alternatesources: github:https://github.com/microsoft/pxt-skillmap-sample/skillmap.md
-* layout: manual
 
 ## Add Enemies
 * name: Learn to add Enemies to your Game
 * description: This will teach you how to add enemies to your game
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+* layout: manual
 
 ### static-enemies
 
@@ -35,7 +35,7 @@
 * description: In this pattern a static enemy is animated to make some limited movements around its home position, for example bobbing or bouncing.
 * tags: easy
 * next: jumping-on-enemies
-* position: 1 0
+* position: 1 1
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity2
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_animatedenemies.jpg
@@ -46,7 +46,7 @@
 * type: tutorial
 * description: In many games players shoot enemies. In some platformers they get rid of them by jumping on them instead. If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears..
 * tags: medium
-* position: 2 0
+* position: 2 2
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_jumping.jpg
@@ -63,7 +63,7 @@
 * type: tutorial
 * description: Intro to charting your progress
 * tags: easy
-* position: 3 0
+
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/images/interface/activity1.png
 
