@@ -22,7 +22,7 @@
 * description: Learn to add a simple static enemy or hazard to your game
 * tags: easy
 * next: animated-enemies
-* position: 0 2
+* position: 0 0
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/images/patterns/gameMechanics_staticenemies.jpg
@@ -35,7 +35,7 @@
 * description: In this pattern a static enemy is animated to make some limited movements around its home position, for example bobbing or bouncing.
 * tags: easy
 * next: jumping-on-enemies
-* position: 1 2
+* position: 1 1
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity2
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_animatedenemies.jpg
@@ -46,7 +46,7 @@
 * type: tutorial
 * description: In many games players shoot enemies. In some platformers they get rid of them by jumping on them instead. If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears..
 * tags: medium
-* position: 1 3
+* position: 2 2
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_jumping.jpg
