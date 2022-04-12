@@ -14,6 +14,7 @@
 * name: Learn to add Enemies to your Game
 * description: This will teach you how to add enemies to your game
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+* layout: manual
 
 ### static-enemies
 
@@ -46,7 +47,7 @@
 * type: tutorial
 * description: In many games players shoot enemies. In some platformers they get rid of them by jumping on them instead. If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears..
 * tags: medium
-* position: 2 0
+* position: 3 0
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_jumping.jpg
@@ -56,6 +57,7 @@
 * name: Learn to use Space
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
+* layout: manual
 
 ### jumping-on-enemies
 
@@ -63,7 +65,7 @@
 * type: tutorial
 * description: In many games players shoot enemies. In some platformers they get rid of them by jumping on them instead. If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears..
 * tags: medium
-* position: 3 0
+* position: 4 0
 
 * url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity1
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_jumping.jpg
