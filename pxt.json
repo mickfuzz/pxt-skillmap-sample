@@ -1,6 +1,6 @@
 {
     "name": "skillmap-mc-platformer",
-    "version": "0.0.1",
+    "version": "0.1.1",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -17,7 +17,6 @@
         "tutorials/space/activity2.md",
         "tutorials/space/activity3.md",
         "tutorials/space/activity4.md",
-
         "tutorials/space/activity5.md",
         "tutorials/interface/activity1.md"
     ],
