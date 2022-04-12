@@ -61,7 +61,7 @@
 
 ### jumping-on-enemies
 
-* name: Jumping on Enemies to Zap them
+* name: Jumping on Enemies to Zap them 2
 * type: tutorial
 * description: In many games players shoot enemies. In some platformers they get rid of them by jumping on them instead. If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears..
 * tags: medium
