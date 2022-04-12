@@ -52,21 +52,21 @@
 * imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_jumping.jpg
 
 
-## challenge Space2
+## challenge Space-2
 * name: Learn to use Space
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
 
-### space-activity2
+### jumping-on-enemies
 
-* name: 2 Learn to use the 3M game making map
+* name: Jumping on Enemies to Zap them
 * type: tutorial
-* description: Intro to charting your progress
-* tags: easy
+* description: In many games players shoot enemies. In some platformers they get rid of them by jumping on them instead. If the player is descending from a jump when they touch the enemy the player is zapped and in this case disappears..
+* tags: medium
 * position: 3 0
-* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/interface/activity1
-* imageUrl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/images/interface/activity1.png
 
+* url: https://github.com/mickfuzz/skillmap-mc-platformer/tutorials/enemies/activity1
+* imageUrl: https://raw.githubusercontent.com/mickfuzz/makecode-platformer-101/master/images/patterns/gameMechanics_jumping.jpg
 
 
 ## challenge Space3
