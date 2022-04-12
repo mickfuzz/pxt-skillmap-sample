@@ -43,7 +43,7 @@
 
 
 
-## challenge Space-2
+## challenge Jump Part Two
 * name: Learn to use Space
 * description: This will teach you how to complete tutorials in Microsoft MakeCode Arcade.
 * completionUrl: https://microsoft.github.io/pxt-skillmap-sample/certificates/understanding-arcade-tutorials.pdf
