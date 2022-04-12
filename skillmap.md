@@ -1,6 +1,6 @@
 # MakeCode Platformer
-* name: MakeCode Platformer Guide
-* description: Make a platformer game by adding these game design patterns to a starting template.
+* name: MakeCode Platformer - Choose your own Adventure
+* description: Make a platformer game by adding these game design patterns to a Starting Template.
 <!-- * bannerUrl: /static/skillmap/platformer/activity4.png-->
 * backgroundurl: https://raw.githubusercontent.com/mickfuzz/skillmap-mc-platformer/main/images/bg/game-maker-guide-background.png
 * primarycolor: #2EA9B0
