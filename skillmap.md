@@ -16,7 +16,7 @@
 
 ### static-enemies
 
-* name: Add static enemy
+* name: Add Static Enemies
 * type: tutorial
 * description: Learn to add a simple static enemy or hazard to your game
 * tags: easy
